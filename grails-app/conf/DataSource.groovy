@@ -1,5 +1,5 @@
 grails {
     mongodb {
-        connectionString = System.env.MONGOLAB_URI
+        connectionString = "mongodb://unapp:unapp@ds061355.mlab.com:61355/unapp"
     }
 }
